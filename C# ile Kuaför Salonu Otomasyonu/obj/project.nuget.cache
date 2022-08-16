@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "V98hTKSvo/tonv7eqI1eHGzRrNzn4DFGMtwJmWkPZWPsmZ/yfRksNj9sDk8WToq5NVHe0s/KrxCfbv8og8stSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aslig\\Desktop\\FinalProje\\FinalProje\\FinalProje.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aslig\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aslig\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\aslig\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\aslig\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\aslig\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
